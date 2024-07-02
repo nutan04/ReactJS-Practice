@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.mystyle {
+  background-color: #cdc0b0;
+  color: Red;
+  padding: 10px;
+  font-family: Arial;
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -28,10 +36,17 @@
   color: #61dafb;
 }
 
+.Stylecss {
+  color: #a16c22;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
